@@ -1,4 +1,4 @@
-21685616872600847
+21685618087913604
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83104,6 +83104,13 @@ Capacitor
 2
 2
 SamacSys_Parts
+CAPC1608X97N
+VJ0603
+Capacitor
+0
+2
+2
+SamacSys_Parts
 CAPC2012X145N
 GRM21_0.10 L=2.0mm W=1.25mm T=1.25mm
 Capacitor
@@ -83121,6 +83128,13 @@ SamacSys_Parts
 CAPC3225X270N
 1210 (3225)
 Capacitor
+0
+2
+2
+SamacSys_Parts
+DIONM5436X244N
+SMB (DO-214AA)(H=2.44mm)-1
+TVS Diode (Bi-directional)
 0
 2
 2
@@ -83167,6 +83181,34 @@ Resistor
 2
 2
 SamacSys_Parts
+ERJH3
+ERJH3
+Resistor
+0
+2
+2
+SamacSys_Parts
+ERJS03J155V
+ERJS03_U03_(0603)
+Resistor
+0
+2
+2
+SamacSys_Parts
+FUSC1608X60N
+0603
+Fuse
+0
+2
+2
+SamacSys_Parts
+FUSC3216X83N
+0685T6000-01-2
+Fuse
+0
+2
+2
+SamacSys_Parts
 FX135A327
 FX135A-327-1
 Crystal or Oscillator
@@ -83209,6 +83251,13 @@ Connector
 2
 2
 SamacSys_Parts
+HDRV2W66P0X254_1X2_762X572X1003P
+779
+Connector
+0
+2
+2
+SamacSys_Parts
 HDRV3W40P0X127_1X3_381X210X430P
 M50-3530342
 Connector
@@ -83222,6 +83271,13 @@ Connector
 0
 3
 3
+SamacSys_Parts
+HDRV4W77P254_4X1_467X488X821P
+5-146280-4
+Connector
+0
+4
+4
 SamacSys_Parts
 HDRV40W66P254X254_2X20_5080X508X860P
 M20-9982045
@@ -83279,6 +83335,13 @@ Integrated Circuit
 100
 100
 SamacSys_Parts
+QFP80P900X900X160-32N
+LQFP32, 7 x 7 mm, 32-pin low-profile quad flat package
+Integrated Circuit
+0
+32
+32
+SamacSys_Parts
 RESC1005X40N
 1E(0402)
 Resistor
@@ -83294,7 +83357,7 @@ Resistor
 2
 SamacSys_Parts
 RESC1608X55N
-CHP0603A
+CHV0603
 Resistor
 0
 2
@@ -83321,6 +83384,13 @@ Connector
 50
 50
 SamacSys_Parts
+SHDR6W66P0X254_1X6_1524X572X1003P
+640456-6
+Connector
+0
+6
+6
+SamacSys_Parts
 SMTM1225TR
 SMTM1225.TR-1
 Undefined or Miscellaneous
@@ -83342,6 +83412,13 @@ Integrated Circuit
 7
 7
 SamacSys_Parts
+SOP65P640X120-20N
+TSSOP
+Integrated Circuit
+0
+20
+20
+SamacSys_Parts
 SOT95P237X112-3N
 Micro3 (SOT23)
 Transistor
@@ -83362,6 +83439,13 @@ Diode
 0
 3
 3
+SamacSys_Parts
+SQS850ENT1_GE3
+PowerPAK 1212-8 Single
+MOSFET (P-Channel)
+0
+11
+11
 SamacSys_Parts
 TPS27S100BRRKR
 TPS27S100BRRKR-4
