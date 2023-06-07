@@ -1,0 +1,4 @@
+Component Count:,4,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+"D1, ",1,CM1231-02SO,CM1231-02SO,SOT95P280X145-6N,"ON Semiconductor CM1231-02SO Dual Uni-Directional ESD Protection Array, 225mW peak, 6-Pin SOT-23",
+"R1, R2, ",2,ERJ-3EKF1002V,ERJ-3EKF1002V,ERJ3EK_(0603),Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200,

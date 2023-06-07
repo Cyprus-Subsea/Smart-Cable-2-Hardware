@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\GD\upwork\projects\Ehsan_Abdi\USIB2\Smart-Cable-2-Hardware\modules\DIRECT\I2C\α1\DIRECT_I2C_α1.kicad_sch</source>
+    <date>6/7/2023 6:55:35 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DIRECT_I2C_α1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>CM1231-02SO</value>
+      <footprint>SOT95P280X145-6N</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/CM1231%20DATA%20SHEET.PDF</datasheet>
+      <fields>
+        <field name="Arrow Part Number">CM1231-02SO</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cm1231-02so/on-semiconductor?region=nac</field>
+        <field name="Description">ON Semiconductor CM1231-02SO Dual Uni-Directional ESD Protection Array, 225mW peak, 6-Pin SOT-23</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">CM1231-02SO</field>
+        <field name="Mouser Part Number">748-CM1231-02SO</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/CM1231-02SO?qs=LMMkZCEv%2Ff0A85pzA%2FPjNw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="CM1231-02SO" description="ON Semiconductor CM1231-02SO Dual Uni-Directional ESD Protection Array, 225mW peak, 6-Pin SOT-23"/>
+      <property name="Description" value="ON Semiconductor CM1231-02SO Dual Uni-Directional ESD Protection Array, 225mW peak, 6-Pin SOT-23"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="CM1231-02SO"/>
+      <property name="Mouser Part Number" value="748-CM1231-02SO"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/CM1231-02SO?qs=LMMkZCEv%2Ff0A85pzA%2FPjNw%3D%3D"/>
+      <property name="Arrow Part Number" value="CM1231-02SO"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/cm1231-02so/on-semiconductor?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIRECT_I2C_α1.kicad_sch"/>
+      <property name="ki_description" value="ON Semiconductor CM1231-02SO Dual Uni-Directional ESD Protection Array, 225mW peak, 6-Pin SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b95b13c-4abe-44eb-a80a-ae26506c052f</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>IF_2020_20_MODULE_FX6</value>
+      <footprint>USIB2:IF_2020_20_MODULE_FX6</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/185/FX6_Catalog_D49674_en-2585892.pdf</datasheet>
+      <fields>
+        <field name="Connector">FX620P08SV</field>
+      </fields>
+      <libsource lib="USIB2" part="IF_2020_20_MODULE_FX6" description=""/>
+      <property name="Connector" value="FX620P08SV"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIRECT_I2C_α1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bbc4a18-48af-4f33-811c-902314b2654d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>ERJ-3EKF1002V</value>
+      <footprint>ERJ3EK_(0603)</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ERJ-3EKF1002V</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/erj-3ekf1002v/panasonic?region=nac</field>
+        <field name="Description">Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-3EKF1002V</field>
+        <field name="Mouser Part Number">667-ERJ-3EKF1002V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=H7k1u0Mp9JSrGPQ5%2F5COuw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ERJ-3EKF1002V" description="Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200"/>
+      <property name="Description" value="Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-3EKF1002V"/>
+      <property name="Mouser Part Number" value="667-ERJ-3EKF1002V"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=H7k1u0Mp9JSrGPQ5%2F5COuw%3D%3D"/>
+      <property name="Arrow Part Number" value="ERJ-3EKF1002V"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/erj-3ekf1002v/panasonic?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIRECT_I2C_α1.kicad_sch"/>
+      <property name="ki_description" value="Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daf03301-d5af-4d94-b722-dd664d4dcd96</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>ERJ-3EKF1002V</value>
+      <footprint>ERJ3EK_(0603)</footprint>
+      <datasheet>https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ERJ-3EKF1002V</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/erj-3ekf1002v/panasonic?region=nac</field>
+        <field name="Description">Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-3EKF1002V</field>
+        <field name="Mouser Part Number">667-ERJ-3EKF1002V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=H7k1u0Mp9JSrGPQ5%2F5COuw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ERJ-3EKF1002V" description="Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200"/>
+      <property name="Description" value="Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200"/>
+      <property name="Height" value="0.55"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ERJ-3EKF1002V"/>
+      <property name="Mouser Part Number" value="667-ERJ-3EKF1002V"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=H7k1u0Mp9JSrGPQ5%2F5COuw%3D%3D"/>
+      <property name="Arrow Part Number" value="ERJ-3EKF1002V"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/erj-3ekf1002v/panasonic?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIRECT_I2C_α1.kicad_sch"/>
+      <property name="ki_description" value="Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcd40bad-05b3-474d-b193-e547c11f34dc</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="SamacSys_Parts" part="CM1231-02SO">
+      <description>ON Semiconductor CM1231-02SO Dual Uni-Directional ESD Protection Array, 225mW peak, 6-Pin SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/CM1231%20DATA%20SHEET.PDF</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">CM1231-02SO</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/CM1231%20DATA%20SHEET.PDF</field>
+        <field name="Description">ON Semiconductor CM1231-02SO Dual Uni-Directional ESD Protection Array, 225mW peak, 6-Pin SOT-23</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">CM1231-02SO</field>
+        <field name="Mouser Part Number">748-CM1231-02SO</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/CM1231-02SO?qs=LMMkZCEv%2Ff0A85pzA%2FPjNw%3D%3D</field>
+        <field name="Arrow Part Number">CM1231-02SO</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/cm1231-02so/on-semiconductor?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AOUT" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="AIN" type="passive"/>
+        <pin num="4" name="BIN" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="BOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="ERJ-3EKF1002V">
+      <description>Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200</description>
+      <docs>https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ERJ-3EKF1002V</field>
+        <field name="Footprint">ERJ3EK_(0603)</field>
+        <field name="Datasheet">https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf</field>
+        <field name="Description">Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ERJ-3EKF1002V</field>
+        <field name="Mouser Part Number">667-ERJ-3EKF1002V</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1002V?qs=H7k1u0Mp9JSrGPQ5%2F5COuw%3D%3D</field>
+        <field name="Arrow Part Number">ERJ-3EKF1002V</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/erj-3ekf1002v/panasonic?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="USIB2" part="IF_2020_20_MODULE_FX6">
+      <docs>https://eu.mouser.com/datasheet/2/185/FX6_Catalog_D49674_en-2585892.pdf</docs>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">IF_2020_20_MODULE_FX6</field>
+        <field name="Footprint">USIB2:IF_2020_20_MODULE_FX6</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/185/FX6_Catalog_D49674_en-2585892.pdf</field>
+        <field name="Connector">FX620P08SV</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
+        <pin num="17" name="" type="passive"/>
+        <pin num="18" name="" type="passive"/>
+        <pin num="19" name="" type="passive"/>
+        <pin num="20" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="SamacSys_Parts">
+      <uri>D:/STORAGE/electronics/PCB/Kicad_Libs/SamacSys/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="USIB2">
+      <uri>D:/STORAGE/electronics/PCB/Kicad_Libs/USIB2.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/I2C_SCL">
+      <node ref="D1" pin="4" pinfunction="BIN" pintype="passive"/>
+      <node ref="H1" pin="8" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/I2C_SCL_OUT">
+      <node ref="D1" pin="6" pinfunction="BOUT" pintype="passive"/>
+      <node ref="H1" pin="5" pintype="passive"/>
+    </net>
+    <net code="3" name="/I2C_SDA">
+      <node ref="D1" pin="3" pinfunction="AIN" pintype="passive"/>
+      <node ref="H1" pin="9" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/I2C_SDA_OUT">
+      <node ref="D1" pin="1" pinfunction="AOUT" pintype="passive"/>
+      <node ref="H1" pin="4" pintype="passive"/>
+    </net>
+    <net code="5" name="/VCC3">
+      <node ref="D1" pin="5" pinfunction="VP" pintype="passive"/>
+      <node ref="H1" pin="10" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="D1" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="H1" pin="1" pintype="passive"/>
+      <node ref="H1" pin="20" pintype="passive"/>
+    </net>
+    <net code="7" name="unconnected-(H1-Pad2)">
+      <node ref="H1" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="unconnected-(H1-Pad3)">
+      <node ref="H1" pin="3" pintype="passive"/>
+    </net>
+    <net code="9" name="unconnected-(H1-Pad6)">
+      <node ref="H1" pin="6" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(H1-Pad7)">
+      <node ref="H1" pin="7" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(H1-Pad11)">
+      <node ref="H1" pin="11" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(H1-Pad12)">
+      <node ref="H1" pin="12" pintype="passive"/>
+    </net>
+    <net code="13" name="unconnected-(H1-Pad13)">
+      <node ref="H1" pin="13" pintype="passive"/>
+    </net>
+    <net code="14" name="unconnected-(H1-Pad14)">
+      <node ref="H1" pin="14" pintype="passive"/>
+    </net>
+    <net code="15" name="unconnected-(H1-Pad15)">
+      <node ref="H1" pin="15" pintype="passive"/>
+    </net>
+    <net code="16" name="unconnected-(H1-Pad16)">
+      <node ref="H1" pin="16" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(H1-Pad17)">
+      <node ref="H1" pin="17" pintype="passive"/>
+    </net>
+    <net code="18" name="unconnected-(H1-Pad18)">
+      <node ref="H1" pin="18" pintype="passive"/>
+    </net>
+    <net code="19" name="unconnected-(H1-Pad19)">
+      <node ref="H1" pin="19" pintype="passive"/>
+    </net>
+  </nets>
+</export>
