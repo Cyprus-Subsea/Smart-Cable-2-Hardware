@@ -788,7 +788,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 95f985bb-2d0b-4000-9af1-8196e63e9b08)
   )
-  (label "VCC2" (at 143.002 137.414 0) (fields_autoplaced)
+  (label "VCC3" (at 143.002 137.414 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 99a5f146-db77-44f0-8cdc-0a8595a580d8)
   )
@@ -800,11 +800,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ad32a584-6ba8-4e18-ada8-22ba6f424cc2)
   )
-  (label "VCC2" (at 255.143 61.341 0) (fields_autoplaced)
+  (label "VCC3" (at 255.143 61.341 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bd3df718-98f6-4f54-be09-c9549a9dbe1c)
   )
-  (label "VCC2" (at 49.7586 48.641 0) (fields_autoplaced)
+  (label "VCC3" (at 49.7586 48.641 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c1006551-da1c-4fdb-9f4e-fd00e6e00b8f)
   )
@@ -859,7 +859,7 @@
     (pin "1" (uuid 16c8bf02-c06b-4634-a4c6-e1db5203d617))
     (pin "2" (uuid d474a084-1a81-4e58-8e89-2ff29d89705c))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C1") (unit 1)
         )
@@ -909,7 +909,7 @@
     (pin "1" (uuid dc3a1a31-3b31-445b-b36a-5453867a81d5))
     (pin "2" (uuid 028c1a4f-dfc3-41b6-a864-039acd749e12))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C8") (unit 1)
         )
@@ -934,7 +934,7 @@
     )
     (pin "1" (uuid 1b4ab62a-ad8a-40e1-aee2-afac5a7ca765))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR05") (unit 1)
         )
@@ -984,7 +984,7 @@
     (pin "1" (uuid e97aeebc-4ff9-4577-8d3c-be7091849b07))
     (pin "2" (uuid 0e7fab2b-952e-477c-9d20-cce46484d02f))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C3") (unit 1)
         )
@@ -1034,7 +1034,7 @@
     (pin "1" (uuid 8d7c62b0-e60c-4381-855b-b87ff6f15b5d))
     (pin "2" (uuid b86d6ea3-f7fa-4717-a26d-84a92e6f071f))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C10") (unit 1)
         )
@@ -1098,7 +1098,7 @@
     (pin "8" (uuid 4804b909-d2a3-4ff2-b38a-35a30e8ccd9d))
     (pin "9" (uuid d89a2b15-b5e4-401e-8ad8-1157044c6b1c))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "IC2") (unit 1)
         )
@@ -1123,7 +1123,7 @@
     )
     (pin "1" (uuid 425ba678-c2ba-43a3-bf65-a9e93fc3412e))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR03") (unit 1)
         )
@@ -1173,7 +1173,7 @@
     (pin "1" (uuid c60777a8-e6a0-4a28-aeaf-3558f286712a))
     (pin "2" (uuid 496021c3-76b3-4d8e-a6ff-33a1b8564d00))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C4") (unit 1)
         )
@@ -1223,7 +1223,7 @@
     (pin "1" (uuid 5ac87c94-1193-4106-8f05-4b83d6ddd74c))
     (pin "2" (uuid 908e5163-f344-4f5a-a679-8b04b23136c7))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C7") (unit 1)
         )
@@ -1273,7 +1273,7 @@
     (pin "1" (uuid f9502388-ece9-400e-96c4-2da79c4498cf))
     (pin "2" (uuid cf7c0444-19f6-4973-8687-a0b2494c140a))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C6") (unit 1)
         )
@@ -1323,7 +1323,7 @@
     (pin "1" (uuid 367f66da-707b-401c-ad95-69c4ffac4d01))
     (pin "2" (uuid 83f86e8e-fe1a-4778-9f96-27640ad0e616))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C2") (unit 1)
         )
@@ -1348,7 +1348,7 @@
     )
     (pin "1" (uuid 1d6ec5e3-f8dd-4e85-a68b-1f1479066443))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR09") (unit 1)
         )
@@ -1373,7 +1373,7 @@
     )
     (pin "1" (uuid 5b3d2675-c93e-4b9a-aa8f-3d365581aafc))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR011") (unit 1)
         )
@@ -1420,7 +1420,7 @@
     (pin "8" (uuid cb6fd411-627c-41dd-b4c6-95119cebcb39))
     (pin "9" (uuid 95b15a30-d2cc-461e-9910-3e2c4f668cb0))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "H1") (unit 1)
         )
@@ -1484,7 +1484,7 @@
     (pin "8" (uuid 29b3a48b-e836-490f-912a-84a4c3670337))
     (pin "9" (uuid 722f8f45-b902-484e-9f04-bd08b14e7cd2))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "IC1") (unit 1)
         )
@@ -1509,7 +1509,7 @@
     )
     (pin "1" (uuid e9e567cf-8ca7-4ebd-9b8a-14e611cef89d))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR06") (unit 1)
         )
@@ -1534,7 +1534,7 @@
     )
     (pin "1" (uuid 3e1ad343-2001-423f-8f65-6281a6956dd1))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR010") (unit 1)
         )
@@ -1559,7 +1559,7 @@
     )
     (pin "1" (uuid 44ca655b-707e-4627-8e60-acfc989b1db8))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR04") (unit 1)
         )
@@ -1584,7 +1584,7 @@
     )
     (pin "1" (uuid 0ba5a240-9129-4a6a-98b3-cd097d833e4e))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR07") (unit 1)
         )
@@ -1609,7 +1609,7 @@
     )
     (pin "1" (uuid 4ccd2a5d-9878-4fe5-8281-9b98850f60dd))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR08") (unit 1)
         )
@@ -1634,7 +1634,7 @@
     )
     (pin "1" (uuid 60212d8e-8380-49d2-b482-5dfadb03d75f))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR01") (unit 1)
         )
@@ -1684,7 +1684,7 @@
     (pin "1" (uuid 71dd7ff2-bcdd-40c2-a70c-081068a14a9f))
     (pin "2" (uuid 0d2aa91f-e3da-42f8-83aa-d2b09d276d43))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C5") (unit 1)
         )
@@ -1734,7 +1734,7 @@
     (pin "1" (uuid 9790ded4-0ddf-47d5-8fe3-4a5e7606e36a))
     (pin "2" (uuid f41a9223-f015-49d2-8cb6-d23c15370c31))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "C9") (unit 1)
         )
@@ -1759,7 +1759,7 @@
     )
     (pin "1" (uuid c04acdd5-6340-48a0-982e-41ea64b3a3c7))
     (instances
-      (project "RS232_α1"
+      (project "RS232-2_α1"
         (path "/a97216d2-ea19-4316-99be-5ed65c12da81"
           (reference "#PWR02") (unit 1)
         )

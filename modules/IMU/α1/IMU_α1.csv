@@ -1,0 +1,5 @@
+Component Count:,6,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+"C1, C6, ",2,C0603C104K5RAC3121,C0603C104K5RAC3121,CAPC1608X95N,Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V .1uF X7R 0603 10% AEC-Q200,
+"IC2, ",1,LSM6DSLTR,LSM6DSLTR,LSM6DSLTR,IMUs - Inertial Measurement Units CONSUMER MEMS,
+"R1, R2, ",2,ERJ-3EKF1002V,ERJ-3EKF1002V,ERJ3EK_(0603),Thick Film Resistors - SMD 0603 10Kohms 1% AEC-Q200,
