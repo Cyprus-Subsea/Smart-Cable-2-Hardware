@@ -3,3 +3,9 @@ Bugs:
 1. Pin 26 connected to GND, should be VCC2_OUT.
 Changes:
 
+α2:
+Bugs:
+
+Fixed:
+1. Pin 26 connected to GND, should be VCC2_OUT.
+Changes:
